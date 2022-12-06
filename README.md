@@ -1,29 +1,17 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### Must have scripts and tools after an OS fresh installation ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [tmux](https://github.com/tmux/tmux/wiki) 
+* zsh
+* [oh-my-zsh](https://ohmyz.sh/)
+* [sdkman](https://sdkman.io/) 
 
-### How do I get set up? ###
+### tmux ###
+1. After downloading it, create a symlink ".tmux.conf"->".tmux.tmux.conf" and add the following .tmux.conf.local at ~ (home folder)
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### oh-my-zsh ###
 
-### Contribution guidelines ###
+1. Create or edit .zshrc with the file provided
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
