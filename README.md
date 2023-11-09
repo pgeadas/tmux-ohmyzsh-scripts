@@ -1,4 +1,4 @@
-# README #
+[# README #
 
 
 ### Must have scripts and tools after an OS fresh installation ###
@@ -9,9 +9,10 @@
 * [sdkman](https://sdkman.io/) 
 
 ### tmux ###
-1. After downloading it, create a symlink ".tmux.conf"->".tmux.tmux.conf" and add the following .tmux.conf.local at ~ (home folder)
+1. https://github.com/gpakosz/.tmux
 
 ### oh-my-zsh ###
 
 1. Create or edit .zshrc with the file provided
 
+](https://github.com/gpakosz/.tmux)https://github.com/gpakosz/.tmux
